@@ -1,6 +1,6 @@
 import React from "react";
 import { StyledActorCard } from "./ActorCard.styled";
-
+import { FadeIn } from "react-slide-fade-in";
 const Actorcard = ({ name, gender, image, country, birthday, deathday }) => {
   return (
     <FadeIn
