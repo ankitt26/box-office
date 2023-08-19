@@ -68,7 +68,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> coming soon...
+> [🌏 box-office  ](https://ankitt26-box-office.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,12 +124,12 @@ Example command:
 
 ### Run tests
 
-coming soon...
-
+> coming soon.
 
 ### Deployment
 
-coming soon..
+> [ box-office  ](https://ankitt26-box-office.onrender.com)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
