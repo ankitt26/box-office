@@ -22,8 +22,9 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
-    - [Run](#run)
+    - [Usage](#usage)
     - [Run tests](#run-tests)
+    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -107,11 +108,28 @@ Example command:
   cd my-project
   npm install
 ```
-### Run 
+
+### Usage
+
+To run the project, execute the following command:
+
+
+Example command:
+
+```sh
+ npm run dev
+```
+
+
 
 ### Run tests
 
 coming soon...
+
+
+### Deployment
+
+coming soon..
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,9 +140,9 @@ coming soon...
 
 👤 **Ankit**
 
-- GitHub: [@githubhandle](https://github.com/ankitt26)
-- Twitter: [@twitterhandle](https://twitter.com/ankit26k)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ankit26k/)
+- GitHub: [@ankitt26](https://github.com/ankitt26)
+- Twitter: [@ankit26k](https://twitter.com/ankit26k)
+- LinkedIn: [ankit26k](https://www.linkedin.com/in/ankit26k/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
