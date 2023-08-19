@@ -16,7 +16,8 @@
     "react-fade": "^1.1.1",
     "react-router-dom": "^6.4.5",
     "react-slide-fade-in": "^1.0.9",
-    "sort-by": "^1.2.0"
+    "sort-by": "^1.2.0",
+    "styled-components": "^6.0.7"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
