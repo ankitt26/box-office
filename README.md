@@ -44,6 +44,7 @@
 2- CSS.
 3- React
 
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -61,6 +62,8 @@
 
   - Data will be fetched using API
   - User can Bookmark the actor or shows.
+  - user can search for shows
+  - user can search for actor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
